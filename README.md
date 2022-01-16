@@ -1,3 +1,11 @@
+# January 16, 2021, I modified this code to work with with the libraries I currently have in my IDE.  In addition I modified the encoder reading to work with my hardware, by adding a "divide by 4" line to better improve the resolutiuon. 
+
+
+
+
+
+
+
 # DSP-Speaker-Filter
 Teensy DSP audio filter for external speakers
 
